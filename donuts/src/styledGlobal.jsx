@@ -9,6 +9,6 @@ export default createGlobalStyle`
 `
 
 export const CorFundo = styled.div`
-     background: linear-gradient(130deg, #F9D03F -80%, #171616 30%);
+    background: linear-gradient(130deg, #F9D03F -80%, #171616 30%);
     height: 100%;
 `

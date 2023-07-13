@@ -8,6 +8,7 @@ export const FooterContainer = styled.footer`
     height: 10vh;
     padding-top: 2vh;
     width: 100%;
+    margin-top: 3vh;
 `
 
 export const ImagemMais = styled.img`

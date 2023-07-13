@@ -7,4 +7,5 @@ export const SectionCard = styled.section`
     justify-content: center;
     gap: 8vw;
     margin-top: 5vh;
+    height: 67vh;
 `
